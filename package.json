@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harsh18/excelCRUD/issues"
   },
-  "homepage": "https://github.com/harsh18/excelCRUD#readme"
+  "homepage": "https://github.com/harsh18/excelCRUD#readme",
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
 }
