@@ -1,0 +1,16 @@
+{
+  "name": "excelCRUD",
+  "version": "0.0.0",
+  "homepage": "https://github.com/harsh18/excelCRUD",
+  "authors": [
+    "harsh18 <harsh.lamba181189@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
